@@ -1,0 +1,17 @@
+body {
+    color: black;
+    background: #EEE;
+}
+
+a{
+    color:red;
+}
+
+h1{
+    font-size: 40px;
+}
+
+.box {
+    border-radius: 5px;
+    box-decoration-break: clone;
+}
